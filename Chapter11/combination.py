@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Module implementing MainWindow.
+Module1 implementing MainWindow.
 """
 
 import pandas as pd
